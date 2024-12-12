@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jed",
+        "last_name": "Cutler",
+        "email": "jcutler0@booking.com",
+        "gender": "Male",
+        "course": "fsdf01"
+    },
+    {
+        "id": 2,
+        "first_name": "RESTAPI",
+        "last_name": "Bellworthy",
+        "email": "xbellworthy1@acquirethisname.com",
+        "gender": "Male",
+        "course": "fsdp01"
+    },
+    {
+        "id": 3,
+        "first_name": "Luigi",
+        "last_name": "Weaver",
+        "email": "lweaver2@microsoft.com",
+        "gender": "Male",
+        "course": "fsdg01"
+    },
+    {
+        "id": 4,
+        "first_name": "Fiona",
+        "last_name": "MacGillicuddy",
+        "email": "fmacgillicuddy3@amazonaws.com",
+        "gender": "Female",
+        "course": "fsdg01"
+    },
+    {
+        "id": 5,
+        "first_name": "editedname",
+        "last_name": "Gatteridge",
+        "email": "bgatteridge4@google.ru",
+        "gender": "Genderqueer",
+        "course": "fsdi01"
+    },
+    null,
+    {
+        "id": 7,
+        "first_name": "Gerianne",
+        "last_name": "Handyside",
+        "email": "ghandyside6@virginia.edu",
+        "gender": "Non-binary",
+        "course": "fsdn01"
+    },
+    {
+        "id": 8,
+        "first_name": "Bennie",
+        "last_name": "Jerratsch",
+        "email": "bjerratsch7@nydailynews.com",
+        "gender": "Female",
+        "course": "fsdr01"
+    },
+    {
+        "id": 9,
+        "first_name": "Annnora",
+        "last_name": "Batrop",
+        "email": "abatrop8@list-manage.com",
+        "gender": "Female",
+        "course": "fsdk01"
+    },
+    {
+        "id": 10,
+        "first_name": "Otto",
+        "last_name": "Creighton",
+        "email": "ocreighton9@quantcast.com",
+        "gender": "Male",
+        "course": "fsdv01"
+    },
+    {
+        "first_name": "zeenath",
+        "last_name": "kousar",
+        "email": "zeenathkousar@gmail.com",
+        "gender": "female",
+        "course": "fsdv01",
+        "id": 11
+    },
+    {
+        "first_name": "Raju",
+        "last_name": "Dev",
+        "email": "Raju@gmail.com",
+        "gender": "male",
+        "course": "fsdv01",
+        "id": 12
+    }
+]
